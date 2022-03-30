@@ -1,0 +1,28 @@
+@media(max-width:776px){
+   h1{
+       font-size: 30px;
+   }
+   p{
+       font-size: 24px;
+   }
+   #m{
+       display: flex;
+   }
+   .icon{
+       margin-left: 10px;
+       margin-right: 10px;
+   } 
+      header{
+        background-image: url('ilon-mask-media.png');
+        background-size: cover;
+    }
+
+
+}
+@media(max-width:1024px){
+    header{
+        background-image: url('ilon-mask-media.png');
+        background-size: cover;
+    }
+
+}
